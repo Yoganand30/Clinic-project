@@ -28,7 +28,6 @@ npm install
 cp .env.example .env   # fill database and JWT settings
 npm run start:dev
 
-### Default Login
-```bah
-**Username**: frontdesk
-**Password**: admin123
+Default Login
+Username: frontdesk
+Password: admin123
